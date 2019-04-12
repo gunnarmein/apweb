@@ -1,0 +1,6 @@
+
+*.jar
+*.class
+chatgm/target/classes/static/index.html
+chatgm/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+chatgm/target/test-classes/.netbeans_automatic_build
